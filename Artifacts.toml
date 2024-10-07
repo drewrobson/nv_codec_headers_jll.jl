@@ -1,0 +1,9 @@
+[[nv_codec_headers]]
+arch = "x86_64"
+git-tree-sha1 = "f4ef845328e8052231622d6ae3c61b250f967a99"
+libc = "glibc"
+os = "linux"
+
+    [[nv_codec_headers.download]]
+    sha256 = "c35da35f2cb0082ecb0c779a54a78152425619fb221599943ee45b4f68ff5edb"
+    url = "https://github.com/drewrobson/nv_codec_headers_jll.jl/releases/download/nv_codec_headers-v12.2.72+0/nv_codec_headers.v12.2.72.x86_64-linux-gnu.tar.gz"
