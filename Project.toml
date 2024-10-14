@@ -1,5 +1,5 @@
 name = "nv_codec_headers_jll"
-uuid = "5b052a42-cdd7-5a33-b9ba-fea45e46860b"
+uuid = "c2021699-0cef-454f-9e51-4fab06569492"
 version = "12.2.72+0"
 
 [deps]
